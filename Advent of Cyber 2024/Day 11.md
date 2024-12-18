@@ -4,16 +4,13 @@
 <li>Learn the different Wi-Fi attacks.</li>
 <li>Learn about the WPA/WPA2 cracking attack.</li>
 
-<p align="center"><i>Mayor Malware had one, just one SOC-mas wish:
-<p align="center">The SOC organiser would fall for his phish!
-<p align="center">Well on top of this, he wanted as well,
-<p align="center">Once the email opened, to gain a rev shell.</i></p>
-
 <p align="center"><img src="https://github.com/user-attachments/assets/e1bd07f4-9f67-4522-ac81-46af0784ddd8"  width="650"/> 
 
-<p>Marta May Ware is surprised that her system was compromised even after following tight security, but McSkidy thinks she traced the attacker, and he got in. It’s none other than Mayor Malware who got into the system. This time, the Mayor used phishing to get his victim. McSkidy’s quick incident response prevented significant damage.</p>
+<p align="center">McSkidy took a thoughtful breath. <i>"Mayor can still find his way in!"</i>
+<p align="center">Glitch smiles confidently. <i>"I think I know the last technique he relies on to get into the networks."</i>
+<p align="center">McSkidy stands up from her chair with a surge of excitement. <i>"Let me guess, it's a notorious way to get into a network - a Wi-Fi attack?!"</i>
+<p align="center">Glitch nods decisively. <i>"Exactly! Let's be one step ahead of the Mayor."</i>
 
-<p>In this task, you will run a security assessment against Marta May Ware. The purpose would be to improve her security and raise her cyber security awareness against future attacks.</p>
 
 
 <p><h2>Q1: What is the BSSID of our wireless interface?</h2></p>
